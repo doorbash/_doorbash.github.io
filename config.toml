@@ -1,11 +1,11 @@
-baseurl = "http://doorbash.ir/"
+baseurl = "https://doorbash.github.io/"
 title = "میلاد دورباش"
 theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
 # pygmentsCodefences = true
 # pygmentsUseClasses = true
-# googleAnalytics = "{your tracking code}"
+googleAnalytics = "UA-128176167-2"
 
 [taxonomies]
   series = "series"
