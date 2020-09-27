@@ -1,5 +1,5 @@
 baseurl = "https://doorbash.github.io/"
-title = "میلاد دورباش"
+title = "Milad Doorbash"
 theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
@@ -11,12 +11,10 @@ googleAnalytics = "UA-128176167-2"
   series = "series"
 
 [params]
-    author = "میلاد دورباش"
+    author = "Milad Doorbash"
     avatar = "avatar.jpg"
     favicon = "favicon.png"
-    description = """
-        مهندس نرم‌افزار، بازی‌ساز مستقل، اصفهان
-    """
+    description = "Software engineer, Game developer from Iran"
     publicationYear = "2019"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
     # singlePageDateFormat = "January 2, 2006"
@@ -28,20 +26,15 @@ googleAnalytics = "UA-128176167-2"
 
 [[menu.main]]
     identifier = "blog"
-    name = "بلاگ"
+    name = "Blog (in Farsi)"
     url = "/blog/"
 
 [[menu.main]]
     identifier = "github"
-    name = "گیتهاب"
+    name = "Github"
     url = "https://github.com/doorbash"
-    
-[[menu.main]]
-    identifier = "twitter"
-    name = "توییتر"
-    url = "https://twitter.com/doorbash"
 
 [[menu.main]]
     identifier = "email"
-    name = "ایمیل"
+    name = "Email"
     url = "mailto:milad.doorbash@gmail.com"
