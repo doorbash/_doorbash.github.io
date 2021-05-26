@@ -12,9 +12,9 @@ googleAnalytics = "UA-128176167-2"
 
 [params]
     author = "Milad Doorbash"
-    avatar = "avatar.jpg"
-    favicon = "favicon.png"
-    description = "Software engineer, Game developer from Iran"
+    avatar = "avatar.png"
+    favicon = "avatar.png"
+    description = "Game Programmer from Iran"
     publicationYear = "2019"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
     # singlePageDateFormat = "January 2, 2006"
@@ -26,7 +26,7 @@ googleAnalytics = "UA-128176167-2"
 
 [[menu.main]]
     identifier = "blog"
-    name = "Blog (in Farsi)"
+    name = "Blog"
     url = "/blog/"
 
 [[menu.main]]
